@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/aga-github/task-15.5#readme",
   "devDependencies": {
-    "http-server": "^0.11.1"
+    "http-server": "^0.11.2"
   }
 }
